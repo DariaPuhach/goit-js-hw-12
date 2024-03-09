@@ -16,7 +16,7 @@ const refs = {
 };
 
 axios.defaults.baseURL = 'https://pixabay.com/api';
-const API_KEY = '41899926-74a7536d4d492e936dbb67b5b';
+const API_KEY = '42779142-7926eae01eb975c15fbad96f0';
 
 const hiddenClass = 'is-hidden';
 let page = 1;
